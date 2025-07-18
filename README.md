@@ -53,9 +53,3 @@ A continuation and extension of Project 2, this project dives deeper into analyz
 - CSV data files
 - GitHub for version control
 
----
-
-## 🚫 Note
-
-Large CSV files used in these projects are excluded from this repository due to GitHub’s file size limits. Please contact the repository owner if you need access to the raw datasets.
-
