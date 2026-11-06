@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+prophet
+folium
+plotly<6
+kaleido==0.2.1
+jupyter
